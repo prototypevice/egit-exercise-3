@@ -3,5 +3,5 @@
 
 ### How to run
 1. Run `python toDoApp.py`
-2. Add tasks, view tasks, remove tasks
-3. Try entering invalid numbers or empty input
+2. Input the needed command to add, remove, or show tasks
+3. Exit if you're done
